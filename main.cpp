@@ -1,5 +1,6 @@
 #include <iostream>
 #include "Maze.h"
+#include <string>
 
 using namespace std;
 

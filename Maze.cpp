@@ -1,6 +1,6 @@
 #include "Maze.h"
 #include <ctime>
-
+#include <string>
 
 Maze::Maze()
 {
